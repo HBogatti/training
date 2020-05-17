@@ -1,6 +1,6 @@
 
 body {
-	background-image: url('../img/gc2.jpg');
+	background-image: url('.gc2.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;*
 	padding: 20px;
@@ -24,15 +24,16 @@ h2{
 }
 .prim {
 			font-style: italic;
-			font-size: 30 px;
+			font-size: 22px;
 }
 p {
-	font-family: 'Bentham';font-size: 18px;
+	font-size: 22px;
 	text-align: center;
 }
 .span {
-font-style: oblique;color: red
-.button {
+font-style: oblique;color: red;
+}
+	button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
