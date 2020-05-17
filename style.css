@@ -1,0 +1,45 @@
+
+body {
+	background-image: url('../img/gc2.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;*
+	padding: 20px;
+	font-family: 'Bentham';font-size: 30px;
+	text-align: center;
+}
+h1 { 
+	color:green; 
+	font-size:40px;
+	text-align: center; 
+}
+
+label {
+	font-size:30x;
+	text-align: left; 
+}
+h2{
+	font-weight: 700; 
+	text-align: center; 
+	font-size: 40px;
+}
+.prim {
+			font-style: italic;
+			font-size: 30 px;
+}
+p {
+	font-family: 'Bentham';font-size: 18px;
+	text-align: center;
+}
+.span {
+font-style: oblique;color: red
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
